@@ -2,3 +2,4 @@ test1
 branch A
 add m +
 add B+1
+add C
