@@ -1,3 +1,4 @@
 test1
+branch A
 add m +
 add B
