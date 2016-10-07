@@ -1,4 +1,4 @@
 test1
 branch A
 add m +
-add B
+add B+1
